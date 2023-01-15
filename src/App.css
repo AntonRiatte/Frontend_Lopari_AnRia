@@ -1,0 +1,22 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: blueviolet;
+  /*text-align: center;*/
+}
+
+.card {
+  border-radius: 30px;
+  border: 2px solid #101561;
+  margin: 2em;
+  padding: 2em;
+  background-color: #888;
+}
+
+.header {
+  background-color: rgba(0, 0, 0, 0.4);
+  color:#ff6a95;
+  text-align: center;
+  margin: auto;
+  padding: 2em;
+}
